@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">constraiint practice</string>
+    <string name="markattandance">Mark Attandance</string>
+    <string name="showattandance">Show Attandance</string>
+    <string name="homework">Home Work</string>
+    <string name="gallary">Gallary</string>
+    <string name="notice">Notice</string>
+    <string name="about">About</string>
+    <string name="payfee">Pay fee</string>
+    <string name="dca">DCA</string>
+    <string name="mars">MARS</string>
+    <string name="oneway">One Way</string>
+    <string name="onetraveller">1 Travellar</string>
+    <string name="spacestaion">Space Station</string>
+    <string name="firestation">Fire Station</string>
+    <string name="rover">Rover</string>
+</resources>
